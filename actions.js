@@ -44,3 +44,9 @@ function ThumbDownComment(id) {
 		id: id
 	}
 }
+
+export ADD_COMMENT
+export REMOVE_COMMENT
+export EDIT_COMMENT
+export THUMB_UP_COMMENT
+export THUMB_DOWN_COMMENT
